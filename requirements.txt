@@ -1,0 +1,98 @@
+# ==============================
+# Core Data Science
+# ==============================
+numpy
+pandas
+scipy
+pyarrow
+
+# ==============================
+# Visualization / EDA
+# ==============================
+matplotlib
+plotly
+
+# ==============================
+# Machine Learning
+# ==============================
+scikit-learn
+xgboost
+lightgbm
+
+# ==============================
+# Model Explainability
+# ==============================
+shap
+
+# ==============================
+# Experiment Tracking
+# ==============================
+mlflow
+
+# ==============================
+# API / Backend
+# ==============================
+fastapi
+uvicorn
+pydantic
+
+# ==============================
+# Dashboard
+# ==============================
+streamlit
+
+# ==============================
+# HTTP / External APIs
+# ==============================
+requests
+httpx
+
+# ==============================
+# Database
+# ==============================
+sqlalchemy
+psycopg2-binary
+
+# ==============================
+# Configuration
+# ==============================
+python-dotenv
+pyyaml
+
+# ==============================
+# Data Validation
+# ==============================
+pandera
+
+# ==============================
+# Serialization
+# ==============================
+joblib
+
+# ==============================
+# Jupyter / Development
+# ==============================
+jupyter
+ipykernel
+
+# ==============================
+# Testing
+# ==============================
+pytest
+
+# ==============================
+# Code Quality
+# ==============================
+black
+flake8
+
+# Statistical / Time-Series Models
+statsmodels
+prophet
+
+# Deep Learning / LSTM
+tensorflow
+keras
+
+# Hyperparameter Optimization
+optuna
