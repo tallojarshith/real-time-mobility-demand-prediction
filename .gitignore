@@ -1,0 +1,23 @@
+# Raw and processed data
+data/raw/
+data/processed/
+
+# Model artifacts
+artifacts/
+
+# Logs
+logs/
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
