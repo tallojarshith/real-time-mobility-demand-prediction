@@ -31,3 +31,4 @@ data/external/taxi_zones.zip
 # Python cache
 __pycache__/
 *.pyc
+.env
